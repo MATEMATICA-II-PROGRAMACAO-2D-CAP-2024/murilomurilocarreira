@@ -16,3 +16,8 @@
     padding: 24px 0;
     font-size: 26px;
 }
+.escola{
+    display:flex;
+    color:white;
+    background-image: radial-gradient(circle at 50% 50%, #b9bcff 0, #8e9cff 25%, #657be3 50%, #405bae 75%, #1d3e7e 100%);
+}
