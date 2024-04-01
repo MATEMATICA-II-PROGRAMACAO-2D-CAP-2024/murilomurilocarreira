@@ -21,3 +21,9 @@
     color:white;
     background-image: radial-gradient(circle at 50% 50%, #b9bcff 0, #8e9cff 25%, #657be3 50%, #405bae 75%, #1d3e7e 100%);
 }
+.escola-conteudo{
+    width: 35%;
+}
+.escola-titulo{
+    padding: 24px 0;
+}
