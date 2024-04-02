@@ -27,3 +27,9 @@
 .escola-titulo{
     padding: 24px 0;
 }
+.escola-imagem{
+    width: 35%;
+}
+body{
+    font-family: 'poppins', sans-serif;
+}
