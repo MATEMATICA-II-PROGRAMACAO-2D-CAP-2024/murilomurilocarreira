@@ -51,3 +51,22 @@ body{
     grid-template-columns: 20% 20% 20% 20%;
 
 }
+
+.cabecalho-link{
+     width: 30px;
+}
+
+.rodape-imagem{
+    width: 0 6em
+    margin: 1em 0 2em 0;
+}
+.container_caixa{
+    margin: 0 6em;
+}
+.principal{
+    background-image: url("Background.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+    align-items: center;
+    text-align: center;
+}
